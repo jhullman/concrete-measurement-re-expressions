@@ -1,4 +1,4 @@
-# concrete-measurement-re-expressions
+# Concrete-measurement-re-expressions
 This repo contains data sets, analyses, and other materials for the paper:
 
   Hullman, Jessica, Kim, Yea-Seul, Nguyen, Francis, Speers, Lauren, and Agrawala, Maneesh. Improving Comprehension of 
