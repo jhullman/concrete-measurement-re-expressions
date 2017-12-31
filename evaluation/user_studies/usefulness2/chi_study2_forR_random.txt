@@ -1,0 +1,451 @@
+workerId	cond	rand	order	task	qval	q1YN	q2rate	reunit	integ	pa	off	educ	drop
+A110KENBXU7SUJ	integ	0	13	integrationS::13::10	"11,000 pounds"	1	3	0	1	0	0	high	0
+A1BXZYF3XW11LQ	integ	0	3	integrationS::13::10	"11,000 pounds"	1	6	0	1	0	0	bach	0
+A1EITLFAMKA61U	integ	0	9	integrationS::13::10	"11,000 pounds"	1	6	0	1	0	0	high	0
+A1UY2W2FL9CWN	integ	0	4	integrationS::13::10	"11,000 pounds"	1	6	0	1	0	0	bach	0
+A1VL7507UONPX0	integ	0	8	integrationS::13::10	"11,000 pounds"	1	6	0	1	0	0	bach	0
+A2TYLR23CHRULH	integ	0	10	integrationS::13::10	"11,000 pounds "		6	0	1	0	0	high	0
+A2YLLYJ04QIRXZ	integ	0	5	integrationS::13::10	"11,000 pounds"	0	0	0	1	0	0	bach	0
+A37EV8RZ82WT8E	integ	0	3	integrationS::13::10	"11,000 pounds"	1	6	0	1	0	0	bach	0
+A37I58C4258IPX	integ	0	9	integrationS::13::10	"11,000 pounds"	1	5	0	1	0	0	bach	0
+A38U3EWZNEOMUH	integ	0	10	integrationS::13::10	"11,000 pounds"	1	5	0	1	0	0	high	0
+A3N0QZ9ZKUCTCQ	integ	0	2	integrationS::13::10	"11,000 pounds"	1	5	0	1	0	0	bach	0
+A3P5WIW36V70AI	integ	0	1	integrationS::13::10	11000 lbs		4	0	1	0	0	high	0
+A423QQ5WN43B9	integ	0	14	integrationS::13::10	"11,000 pounds"	1	4	0	1	0	0	grad	0
+A79EZLBBN7JVG	integ	0	12	integrationS::13::10	11000 pounds	1	5	0	1	0	0	high	0
+AZTTSP8SAHDR6	integ	0	11	integrationS::13::10	"11,000 pounds"	1	3	0	1	0	0	bach	0
+A10DEO061A6L3O	integ	0	9	integrationS::14::1	125 meter 	1	6	0	1	0	0	bach	0
+A16UAN46CNIRHY	integ	0	12	integrationS::14::1	125-meter	1	6	0	1	0	0	bach	0
+A1BXZYF3XW11LQ	integ	0	11	integrationS::14::1	125-meter	1	5	0	1	0	0	bach	0
+A1EITLFAMKA61U	integ	0	6	integrationS::14::1	125-meter	1	5	0	1	0	0	high	0
+A1VL7507UONPX0	integ	0	13	integrationS::14::1	125-meter	1	6	0	1	0	0	bach	0
+A263KB3YR8VZTF	integ	0	8	integrationS::14::1	125-meter	1	6	0	1	0	0	other	0
+A2DSQT79EPX7MY	integ	0	5	integrationS::14::1	125-meter	1	6	0	1	0	0	high	0
+A2S3MXU8T2I5H0	integ	0	9	integrationS::14::1	125-meter	1	4	0	1	0	0	high	0
+A2TYLR23CHRULH	integ	0	11	integrationS::14::1	125-meter	1	6	0	1	0	0	high	0
+A2YLLYJ04QIRXZ	integ	0	9	integrationS::14::1	125 meters	1	4	0	1	0	0	bach	0
+A31IZKL0SIL3MB	integ	0	7	integrationS::14::1	125 meters	1	6	0	1	0	0	high	0
+A37EV8RZ82WT8E	integ	0	7	integrationS::14::1	125-meter	1	5	0	1	0	0	bach	0
+A37I58C4258IPX	integ	0	11	integrationS::14::1	125-meter	1	5	0	1	0	0	bach	0
+A423QQ5WN43B9	integ	0	15	integrationS::14::1	125 meter	1	4	0	1	0	0	grad	0
+A79EZLBBN7JVG	integ	0	3	integrationS::14::1	125 meter	1	2	0	1	0	0	high	0
+AS1QMPXIT1EGX	integ	0	3	integrationS::14::1	125 meter	0	2	0	1	0	0	bach	0
+A110KENBXU7SUJ	integ	0	15	integrationS::15::1	400 gallons	0	2	0	1	0	0	high	0
+A12HZGOZQD5YK7	integ	0	10	integrationS::15::1	400 gallons	1	6	0	1	0	0	other	0
+A1EITLFAMKA61U	integ	0	13	integrationS::15::1	400 gallons	1	5	0	1	0	0	high	0
+A1UY2W2FL9CWN	integ	0	14	integrationS::15::1	400 gallons	1	6	0	1	0	0	bach	0
+A263KB3YR8VZTF	integ	0	10	integrationS::15::1	400 gallons	1	3	0	1	0	0	other	0
+A2A07J1P6YEW6Z	integ	0	4	integrationS::15::1	400 gallons	1	6	0	1	0	0	grad	0
+A2S3MXU8T2I5H0	integ	0	8	integrationS::15::1	400 gallons	1	5	0	1	0	0	high	0
+A2TYLR23CHRULH	integ	0	9	integrationS::15::1	 400 gallons	1	6	0	1	0	0	high	0
+A2YLLYJ04QIRXZ	integ	0	8	integrationS::15::1	400 gallons	1	6	0	1	0	0	bach	0
+A37EV8RZ82WT8E	integ	0	10	integrationS::15::1	400 gallons	1	6	0	1	0	0	bach	0
+A37I58C4258IPX	integ	0	14	integrationS::15::1	400 gallons	1	6	0	1	0	0	bach	0
+A38U3EWZNEOMUH	integ	0	8	integrationS::15::1	400 gallons	1	5	0	1	0	0	high	0
+A3N0QZ9ZKUCTCQ	integ	0	11	integrationS::15::1	400 gallons	1	5	0	1	0	0	bach	0
+A3NKA0NIM0TX5C	integ	0	11	integrationS::15::1	technical error not displayed	0	3	0	1	0	0	high	1
+A3P5WIW36V70AI	integ	0	5	integrationS::15::1	400 gallons	1	3	0	1	0	0	high	0
+A3QSFE6GKO157S	integ	0	6	integrationS::15::1	400 gallons	1	5	0	1	0	0	bach	0
+A423QQ5WN43B9	integ	0	6	integrationS::15::1	400 gallons 	1	4	0	1	0	0	grad	0
+A79EZLBBN7JVG	integ	0	1	integrationS::15::1	400 gallons	1	5	0	1	0	0	high	0
+AZTTSP8SAHDR6	integ	0	4	integrationS::15::1	400 gallons	0	1	0	1	0	0	bach	0
+A110KENBXU7SUJ	integ	0	4	integrationS::2::0	"1,000 feet"	1	2	0	1	0	0	high	0
+A1BXZYF3XW11LQ	integ	0	14	integrationS::2::0	"1,000 feet"	0	2	0	1	0	0	bach	0
+A1UY2W2FL9CWN	integ	0	15	integrationS::2::0	"1,000 feet"	1	5	0	1	0	0	bach	0
+A1VL7507UONPX0	integ	0	10	integrationS::2::0	"1,000 feet"	1	6	0	1	0	0	bach	0
+A263KB3YR8VZTF	integ	0	7	integrationS::2::0	"1,000 feet"	1	6	0	1	0	0	other	0
+A2A07J1P6YEW6Z	integ	0	9	integrationS::2::0	1000 feet	1	5	0	1	0	0	grad	0
+A2TYLR23CHRULH	integ	0	2	integrationS::2::0	" 1,000 feet"	1	5	0	1	0	0	high	0
+A2YLLYJ04QIRXZ	integ	0	3	integrationS::2::0	"1,000 feet"	0	0	0	1	0	0	bach	0
+A2ZJS73XSSMRTD	integ	0	5	integrationS::2::0	"1,000 feet "	1	6	0	1	0	0	high	0
+A31IZKL0SIL3MB	integ	0	5	integrationS::2::0	1000 feet	1	5	0	1	0	0	high	0
+A37I58C4258IPX	integ	0	1	integrationS::2::0	"1,000 feet"	1	5	0	1	0	0	bach	0
+A38U3EWZNEOMUH	integ	0	6	integrationS::2::0	1000 feet	1	3	0	1	0	0	high	0
+A3N0QZ9ZKUCTCQ	integ	0	4	integrationS::2::0	"1,000 feet"	1	2	0	1	0	0	bach	0
+A3P5WIW36V70AI	integ	0	12	integrationS::2::0	1000 ft	1	3	0	1	0	0	high	0
+A3QSFE6GKO157S	integ	0	3	integrationS::2::0	"1,000 feet"	1	6	0	1	0	0	bach	0
+A423QQ5WN43B9	integ	0	12	integrationS::2::0	"1,000 feet"	1	4	0	1	0	0	grad	0
+A110KENBXU7SUJ	integ	0	3	integrationS::2::2	28 pounds	1	6	0	1	0	0	high	0
+A12HZGOZQD5YK7	integ	0	3	integrationS::2::2	28 pounds	1	6	0	1	0	0	other	0
+A1UY2W2FL9CWN	integ	0	8	integrationS::2::2	28 pounds	1	6	0	1	0	0	bach	0
+A263KB3YR8VZTF	integ	0	6	integrationS::2::2	28 pounds	1	6	0	1	0	0	other	0
+A27O2IILV3S5YS	integ	0	14	integrationS::2::2	28 pounds	0	3	0	1	0	0	bach	0
+A2TYLR23CHRULH	integ	0	7	integrationS::2::2	28 pounds	1	6	0	1	0	0	high	0
+A2YLLYJ04QIRXZ	integ	0	14	integrationS::2::2	28 pounds	1	6	0	1	0	0	bach	0
+A2ZJS73XSSMRTD	integ	0	15	integrationS::2::2	28 pounds	1	6	0	1	0	0	high	0
+A37I58C4258IPX	integ	0	4	integrationS::2::2	28 pounds	1	6	0	1	0	0	bach	0
+A38U3EWZNEOMUH	integ	0	13	integrationS::2::2	28 pounds	1	5	0	1	0	0	high	0
+A3N0QZ9ZKUCTCQ	integ	0	7	integrationS::2::2	28 pounds	1	6	0	1	0	0	bach	0
+A3NKA0NIM0TX5C	integ	0	6	integrationS::2::2	technical error	0	3	0	1	0	0	high	1
+A40LU73SS18IW	integ	0	13	integrationS::2::2	28 pounds	1	6	0	1	0	0	bach	0
+A423QQ5WN43B9	integ	0	11	integrationS::2::2	28 pounds	1	4	0	1	0	0	grad	0
+AZTTSP8SAHDR6	integ	0	5	integrationS::2::2	28 pounds	1	4	0	1	0	0	bach	0
+A10DEO061A6L3O	integ	1	12	integrationR::13::10	"11,000 pounds"	0	1	0	1	0	0	bach	0
+A12HZGOZQD5YK7	integ	1	1	integrationR::13::10	"11,000 pounds"	0	1	0	1	0	0	other	0
+A16UAN46CNIRHY	integ	1	9	integrationR::13::10	"11,000 pounds"	1	4	0	1	0	0	bach	0
+A263KB3YR8VZTF	integ	1	14	integrationR::13::10	"11,000 pounds"	0	1	0	1	0	0	other	0
+A27O2IILV3S5YS	integ	1	9	integrationR::13::10	"7,700 pounds "	0	0	0	1	0	0	bach	0
+A2A07J1P6YEW6Z	integ	1	8	integrationR::13::10	11000 pounds	0	1	0	1	0	0	grad	0
+A2DSQT79EPX7MY	integ	1	4	integrationR::13::10	"11,000 pounds"	1	6	0	1	0	0	high	0
+A2P065E9CYMYJL	integ	1	12	integrationR::13::10	"11,000 pounds"	1	3	0	1	0	0	high	0
+A2S3MXU8T2I5H0	integ	1	13	integrationR::13::10	"11,000 pounds"	1	1	0	1	0	0	high	0
+A2ZJS73XSSMRTD	integ	1	14	integrationR::13::10	"11,000 pounds "	0	1	0	1	0	0	high	0
+A31IZKL0SIL3MB	integ	1	1	integrationR::13::10	11000	0	0	0	1	0	0	high	0
+A3NKA0NIM0TX5C	integ	1	5	integrationR::13::10	"11,000 pounds"	1	4	0	1	0	0	high	0
+A3QSFE6GKO157S	integ	1	4	integrationR::13::10	"11,000 pounds"	1	4	0	1	0	0	bach	0
+A40LU73SS18IW	integ	1	10	integrationR::13::10	"11,000 pounds"	0	0	0	1	0	0	bach	0
+AS1QMPXIT1EGX	integ	1	10	integrationR::13::10	"11,000 pounds"	0	1	0	1	0	0	bach	0
+A110KENBXU7SUJ	integ	1	7	integrationR::14::1	125-meter 	0	0	0	1	0	0	high	0
+A12HZGOZQD5YK7	integ	1	2	integrationR::14::1	125-meter	0	0	0	1	0	0	other	0
+A1UY2W2FL9CWN	integ	1	13	integrationR::14::1	125-meter	1	5	0	1	0	0	bach	0
+A27O2IILV3S5YS	integ	1	4	integrationR::14::1	125-meter	0	0	0	1	0	0	bach	0
+A2A07J1P6YEW6Z	integ	1	5	integrationR::14::1	125 meters	0	0	0	1	0	0	grad	0
+A2P065E9CYMYJL	integ	1	10	integrationR::14::1	 125-meter	1	2	0	1	0	0	high	0
+A2ZJS73XSSMRTD	integ	1	13	integrationR::14::1	125-meter	0	1	0	1	0	0	high	0
+A38U3EWZNEOMUH	integ	1	9	integrationR::14::1	125-meter	0	0	0	1	0	0	high	0
+A3N0QZ9ZKUCTCQ	integ	1	8	integrationR::14::1	125-meter	1	5	0	1	0	0	bach	0
+A3NKA0NIM0TX5C	integ	1	3	integrationR::14::1	technical error	0	3	0	1	0	0	high	1
+A3P5WIW36V70AI	integ	1	2	integrationR::14::1	125 meters	0	1	0	1	0	0	high	0
+A3QSFE6GKO157S	integ	1	1	integrationR::14::1	125-meter	1	4	0	1	0	0	bach	0
+A40LU73SS18IW	integ	1	11	integrationR::14::1	125-meter	0	0	0	1	0	0	bach	0
+AZTTSP8SAHDR6	integ	1	6	integrationR::14::1	125 meter	0	0	0	1	0	0	bach	0
+A10DEO061A6L3O	integ	1	1	integrationR::15::1	400 gallons 	1	5	0	1	0	0	bach	0
+A16UAN46CNIRHY	integ	1	13	integrationR::15::1	400 gallons	0	1	0	1	0	0	bach	0
+A1BXZYF3XW11LQ	integ	1	13	integrationR::15::1	400 gallons	0	2	0	1	0	0	bach	0
+A1VL7507UONPX0	integ	1	7	integrationR::15::1	400 gallons	0	1	0	1	0	0	bach	0
+A27O2IILV3S5YS	integ	1	1	integrationR::15::1	400 gallons	0	0	0	1	0	0	bach	0
+A2DSQT79EPX7MY	integ	1	7	integrationR::15::1	400 gallons	1	2	0	1	0	0	high	0
+A2P065E9CYMYJL	integ	1	14	integrationR::15::1	400 gallons	1	4	0	1	0	0	high	0
+A2ZJS73XSSMRTD	integ	1	2	integrationR::15::1	400 Gallons	1	5	0	1	0	0	high	0
+A31IZKL0SIL3MB	integ	1	2	integrationR::15::1	400 gallons	0	0	0	1	0	0	high	0
+A40LU73SS18IW	integ	1	9	integrationR::15::1	400 gallons	0	0	0	1	0	0	bach	0
+AS1QMPXIT1EGX	integ	1	5	integrationR::15::1	400 gallons	1	4	0	1	0	0	bach	0
+A10DEO061A6L3O	integ	1	5	integrationR::2::0	"1,000 feet "	0	1	0	1	0	0	bach	0
+A12HZGOZQD5YK7	integ	1	9	integrationR::2::0	"1,000 feet"	0	1	0	1	0	0	other	0
+A16UAN46CNIRHY	integ	1	1	integrationR::2::0	"1,000 feet"	1	4	0	1	0	0	bach	0
+A1EITLFAMKA61U	integ	1	7	integrationR::2::0	"1,000 feet"	1	4	0	1	0	0	high	0
+A27O2IILV3S5YS	integ	1	7	integrationR::2::0	"1,000 feet"	0	0	0	1	0	0	bach	0
+A2DSQT79EPX7MY	integ	1	11	integrationR::2::0	"1,000 feet"	1	1	0	1	0	0	high	0
+A2P065E9CYMYJL	integ	1	7	integrationR::2::0	"1,000 feet"	1	0	0	1	0	0	high	0
+A2S3MXU8T2I5H0	integ	1	7	integrationR::2::0	"1,000 feet"	1	1	0	1	0	0	high	0
+A37EV8RZ82WT8E	integ	1	4	integrationR::2::0	"1,000 feet"	1	6	0	1	0	0	bach	0
+A3NKA0NIM0TX5C	integ	1	4	integrationR::2::0	"1,000 feet"	1	3	0	1	0	0	high	0
+A40LU73SS18IW	integ	1	3	integrationR::2::0	"1,000 feet"	0	0	0	1	0	0	bach	0
+A79EZLBBN7JVG	integ	1	2	integrationR::2::0	1000 feet	1	3	0	1	0	0	high	0
+AS1QMPXIT1EGX	integ	1	1	integrationR::2::0	"1,000 feet"	0	0	0	1	0	0	bach	0
+AZTTSP8SAHDR6	integ	1	1	integrationR::2::0	"1,000 feet"	0	0	0	1	0	0	bach	0
+A10DEO061A6L3O	integ	1	13	integrationR::2::2	28 pounds 	1	4	0	1	0	0	bach	0
+A16UAN46CNIRHY	integ	1	10	integrationR::2::2	28 pounds	1	6	0	1	0	0	bach	0
+A1BXZYF3XW11LQ	integ	1	9	integrationR::2::2	28 pounds	0	2	0	1	0	0	bach	0
+A1EITLFAMKA61U	integ	1	5	integrationR::2::2	28 pounds	1	5	0	1	0	0	high	0
+A1VL7507UONPX0	integ	1	3	integrationR::2::2	28 pounds	0	1	0	1	0	0	bach	0
+A2A07J1P6YEW6Z	integ	1	10	integrationR::2::2	28 pounds 	0	1	0	1	0	0	grad	0
+A2DSQT79EPX7MY	integ	1	3	integrationR::2::2	18 pounds	1	6	0	1	0	0	high	1
+A2P065E9CYMYJL	integ	1	4	integrationR::2::2	 28 pounds 	1	1	0	1	0	0	high	0
+A2S3MXU8T2I5H0	integ	1	2	integrationR::2::2	28 pounds	0	1	0	1	0	0	high	0
+A31IZKL0SIL3MB	integ	1	4	integrationR::2::2	28 pounds	0	0	0	1	0	0	high	0
+A37EV8RZ82WT8E	integ	1	5	integrationR::2::2	28 pounds	1	3	0	1	0	0	bach	0
+A3P5WIW36V70AI	integ	1	4	integrationR::2::2	28 pounds	0	1	0	1	0	0	high	0
+A3QSFE6GKO157S	integ	1	9	integrationR::2::2	28 pounds	1	4	0	1	0	0	bach	0
+A79EZLBBN7JVG	integ	1	14	integrationR::2::2	28 pounds	0	1	0	1	0	0	high	0
+AS1QMPXIT1EGX	integ	1	15	integrationR::2::2	28 pounds	1	2	0	1	0	0	bach	0
+A12HZGOZQD5YK7	off	2	8	off::11::3_4	"1,000 cubic metres"	0	0	0	0	0	1	other	0
+A16UAN46CNIRHY	off	2	7	off::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	0	0	0	0	0	1	bach	0
+A1EITLFAMKA61U	off	2	10	off::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	0	2	0	0	0	1	high	0
+A1VL7507UONPX0	off	2	9	off::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	0	0	0	0	0	1	bach	0
+A263KB3YR8VZTF	off	2	15	off::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	0	0	0	0	0	1	other	0
+A2A07J1P6YEW6Z	off	2	12	off::11::3_4	"1,000 cubic meters 12,000,000 cubic meters"	0	0	0	0	0	1	grad	0
+A2DSQT79EPX7MY	off	2	9	off::11::3_4	"1,000 cubic metres 120000000 cubic metres"	1	1	0	0	0	1	high	0
+A2S3MXU8T2I5H0	off	2	3	off::11::3_4	"1,000 cubic metres and 12,000,000 cubic metres"	1	4	0	0	0	1	high	0
+A2TYLR23CHRULH	off	2	4	off::11::3_4	" 1,000 cubic metres "	0	1	0	0	0	1	high	0
+A2YLLYJ04QIRXZ	off	2	1	off::11::3_4	cubic metres of gas	0	0	0	0	0	1	bach	0
+A37EV8RZ82WT8E	off	2	2	off::11::3_4	"1,000 cubic metres"	0	1	0	0	0	1	bach	0
+A37I58C4258IPX	off	2	13	off::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	0	2	0	0	0	1	bach	0
+A3QSFE6GKO157S	off	2	7	off::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	0	0	0	0	0	1	bach	0
+A423QQ5WN43B9	off	2	8	off::11::3_4	"1,000 cubic metres "	1	4	0	0	0	1	grad	0
+A79EZLBBN7JVG	off	2	9	off::11::3_4	1000 cubic metres	0	0	0	0	0	1	high	0
+AS1QMPXIT1EGX	off	2	4	off::11::3_4	"1,000 cubic metres and 12,000,000 cubic metres"	0	0	0	0	0	1	bach	0
+AZTTSP8SAHDR6	off	2	10	off::11::3_4	"1,000 cubic metres"	0	0	0	0	0	1	bach	0
+A16UAN46CNIRHY	off	2	6	off::13::6_10	"200-pound 11,000 pounds"	0	1	0	0	0	1	bach	0
+A1BXZYF3XW11LQ	off	2	12	off::13::6_10	"200 pounds 11,000 pounds"	0	0	0	0	0	1	bach	0
+A1VL7507UONPX0	off	2	11	off::13::6_10	"200-pound 11,000 pounds"	0	1	0	0	0	1	bach	0
+A263KB3YR8VZTF	off	2	11	off::13::6_10	"200-pound 11,000 pounds"	1	6	0	0	0	1	other	0
+A27O2IILV3S5YS	off	2	12	off::13::6_10	 500 pounds	0	0	0	0	0	1	bach	0
+A2DSQT79EPX7MY	off	2	13	off::13::6_10	"200-pound 11,000-pound"	1	6	0	0	0	1	high	0
+A2S3MXU8T2I5H0	off	2	10	off::13::6_10	"200-pound and 11,000 pounds"	1	4	0	0	0	1	high	0
+A2TYLR23CHRULH	off	2	3	off::13::6_10	 500 pounds	1	4	0	0	0	1	high	0
+A2YLLYJ04QIRXZ	off	2	12	off::13::6_10	"200 and 11,000 pounds"	0	0	0	0	0	1	bach	0
+A3NKA0NIM0TX5C	off	2	14	off::13::6_10	"200-pound 11,000 pounds"	1	4	0	0	0	1	high	0
+A3P5WIW36V70AI	off	2	15	off::13::6_10	200 lbs and 11000lbs	0	3	0	0	0	1	high	0
+A40LU73SS18IW	off	2	14	off::13::6_10	"200-pound 11,000 pounds"	1	3	0	0	0	1	bach	0
+AS1QMPXIT1EGX	off	2	12	off::13::6_10	"200-pound 11,000 pounds"	0	0	0	0	0	1	bach	0
+AZTTSP8SAHDR6	off	2	9	off::13::6_10	200-pound	0	0	0	0	0	1	bach	0
+A12HZGOZQD5YK7	off	2	4	off::17::3_4	"60,830,000,000 cubic km"	0	0	0	0	0	1	other	0
+A1BXZYF3XW11LQ	off	2	6	off::17::3_4	"60,830,000,000 cubic km"	0	0	0	0	0	1	bach	0
+A1EITLFAMKA61U	off	2	11	off::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	1	3	0	0	0	1	high	0
+A1VL7507UONPX0	off	2	12	off::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	1	0	0	0	1	bach	0
+A27O2IILV3S5YS	off	2	13	off::17::3_4	"60,830,000,000 cubic km"	0	0	0	0	0	1	bach	0
+A2S3MXU8T2I5H0	off	2	11	off::17::3_4	"60,830,000,000 cubic km and 1,083,210,000,000 cubic km"	1	3	0	0	0	1	high	0
+A2TYLR23CHRULH	off	2	1	off::17::3_4	"60,830,000,000 cubic km"	1	6	0	0	0	1	high	0
+A2YLLYJ04QIRXZ	off	2	13	off::17::3_4	"60,830,000,000 cubic km and 1,083,210,000,000 cubic km"	0	0	0	0	0	1	bach	0
+A2ZJS73XSSMRTD	off	2	4	off::17::3_4	" 60,830,000,000 cubic km, 1,083,210,000,000 cubic km"	0	2	0	0	0	1	high	0
+A37EV8RZ82WT8E	off	2	13	off::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	1	0	0	0	1	bach	0
+A3QSFE6GKO157S	off	2	15	off::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	0	0	0	0	1	bach	0
+A40LU73SS18IW	off	2	7	off::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	3	0	0	0	1	bach	0
+A79EZLBBN7JVG	off	2	13	off::17::3_4	 60830000000 cubic km  1083210000000 cubic km	1	3	0	0	0	1	high	0
+AZTTSP8SAHDR6	off	2	8	off::17::3_4	" 60,830,000,000 cubic km"	0	0	0	0	0	1	bach	0
+A10DEO061A6L3O	off	2	4	off::2::2_4	"28 pounds,40 pounds "	0	0	0	0	0	1	bach	0
+A16UAN46CNIRHY	off	2	14	off::2::2_4	28 pounds 40 pounds	0	0	0	0	0	1	bach	0
+A1EITLFAMKA61U	off	2	4	off::2::2_4	28 pounds 40 pounds	1	5	0	0	0	1	high	0
+A1VL7507UONPX0	off	2	5	off::2::2_4	28 pounds 40 pounds	0	1	0	0	0	1	bach	0
+A2A07J1P6YEW6Z	off	2	1	off::2::2_4	"28 pounds, 40 pounds"	1	5	0	0	0	1	grad	0
+A2DSQT79EPX7MY	off	2	10	off::2::2_4	28 pounds 40 pounds	1	4	0	0	0	1	high	0
+A2P065E9CYMYJL	off	2	15	off::2::2_4	28 pounds  40 pounds	0	1	0	0	0	1	high	0
+A2S3MXU8T2I5H0	off	2	15	off::2::2_4	28 pounds and 40 pounds	0	0	0	0	0	1	high	0
+A2TYLR23CHRULH	off	2	6	off::2::2_4	28 pounds	1	4	0	0	0	1	high	0
+A2YLLYJ04QIRXZ	off	2	4	off::2::2_4	28 to 48 pounds.	0	0	0	0	0	1	bach	0
+A2ZJS73XSSMRTD	off	2	1	off::2::2_4	"28 lbs, 40 lbs"	0	2	0	0	0	1	high	0
+A31IZKL0SIL3MB	off	2	11	off::2::2_4	"28 pounds, 40 pounds"	1	5	0	0	0	1	high	0
+A3QSFE6GKO157S	off	2	11	off::2::2_4	28 pounds 40 pounds	1	4	0	0	0	1	bach	0
+AS1QMPXIT1EGX	off	2	9	off::2::2_4	28 pounds 40 pounds	0	0	0	0	0	1	bach	0
+AZTTSP8SAHDR6	off	2	15	off::2::2_4	28 pounds	0	0	0	0	0	1	bach	0
+A10DEO061A6L3O	off	2	3	off::4::0_3	"9800 foot, 128 foot  "	0	0	0	0	0	1	bach	0
+A12HZGOZQD5YK7	off	2	11	off::4::0_3	"9,800-foot"	0	0	0	0	0	1	other	0
+A1VL7507UONPX0	off	2	6	off::4::0_3	"9,800-foot 128-foot"	0	1	0	0	0	1	bach	0
+A27O2IILV3S5YS	off	2	2	off::4::0_3	"9,800-foot &  128-foot"	0	0	0	0	0	1	bach	0
+A2S3MXU8T2I5H0	off	2	6	off::4::0_3	"9,800-foot and 128-foot"	0	0	0	0	0	1	high	0
+A2TYLR23CHRULH	off	2	13	off::4::0_3	"9,800-foot"	0	2	0	0	0	1	high	0
+A2YLLYJ04QIRXZ	off	2	6	off::4::0_3	"9,800 and 128 feet"	0	0	0	0	0	1	bach	0
+A2ZJS73XSSMRTD	off	2	3	off::4::0_3	"9,800-foot, 128-foot"	0	0	0	0	0	1	high	0
+A31IZKL0SIL3MB	off	2	6	off::4::0_3	"9800, 128 ft"	0	0	0	0	0	1	high	0
+A3P5WIW36V70AI	off	2	14	off::4::0_3	9800ft and 128ft	1	0	0	0	0	1	high	0
+A3QSFE6GKO157S	off	2	8	off::4::0_3	"9,800-foot 128-foot"	0	3	0	0	0	1	bach	0
+A40LU73SS18IW	off	2	2	off::4::0_3	"9,800-foot 128-foot"	0	1	0	0	0	1	bach	0
+A10DEO061A6L3O	pa	0	14	proportional_analogiesS::11::3_4	"1,000 cubic metres"	1	5	0	0	1	0	bach	0
+A110KENBXU7SUJ	pa	0	12	proportional_analogiesS::11::3_4	"1,000 cubic metres  12,000,000 cubic metres per day"	1	3	0	0	1	0	high	0
+A1BXZYF3XW11LQ	pa	0	1	proportional_analogiesS::11::3_4	"100 dollars 1,000 cubic metres 329 dollars 1,000 cubic metres 12,000,000 cubic metres "	1	6	0	0	1	0	bach	0
+A1UY2W2FL9CWN	pa	0	7	proportional_analogiesS::11::3_4	"1,000 cubic meters, 12,000,000 cubic meters"	1	6	0	0	1	0	bach	0
+A27O2IILV3S5YS	pa	0	6	proportional_analogiesS::11::3_4	" 12,000,000 cubic metres"	1	6	0	0	1	0	bach	0
+A2P065E9CYMYJL	pa	0	13	proportional_analogiesS::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	1	5	0	0	1	0	high	0
+A2ZJS73XSSMRTD	pa	0	8	proportional_analogiesS::11::3_4	"1,000 cubic metres, 12,000,000 cubic metres "	1	5	0	0	1	0	high	0
+A31IZKL0SIL3MB	pa	0	9	proportional_analogiesS::11::3_4	"1000 cubic meter, 12000000 cubic meters"	0	1	0	0	1	0	high	0
+A38U3EWZNEOMUH	pa	0	4	proportional_analogiesS::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	1	5	0	0	1	0	high	0
+A3N0QZ9ZKUCTCQ	pa	0	9	proportional_analogiesS::11::3_4	"125-meter 12,000,000 cubic metres"	1	3	0	0	1	0	bach	0
+A3NKA0NIM0TX5C	pa	0	13	proportional_analogiesS::11::3_4	"1,000 cubic metres  1,000 cubic metres12,000,000 cubic metres "	1	2	0	0	1	0	high	0
+A3P5WIW36V70AI	pa	0	8	proportional_analogiesS::11::3_4	1000-12000000 cubic meters	1	6	0	0	1	0	high	0
+A40LU73SS18IW	pa	0	1	proportional_analogiesS::11::3_4	"1,000 cubic metres 12,000,000 cubic metres"	1	4	0	0	1	0	bach	0
+A10DEO061A6L3O	pa	0	6	proportional_analogiesS::13::6_10	"200 pound, 11,000 pounds "	1	6	0	0	1	0	bach	0
+A110KENBXU7SUJ	pa	0	11	proportional_analogiesS::13::6_10	"200-pound 11,000 pounds"	1	4	0	0	1	0	high	0
+A12HZGOZQD5YK7	pa	0	13	proportional_analogiesS::13::6_10	"200-pound 11,000 pounds"	1	5	0	0	1	0	other	0
+A1EITLFAMKA61U	pa	0	2	proportional_analogiesS::13::6_10	"200-pound 11,000 pounds"	1	5	0	0	1	0	high	0
+A1UY2W2FL9CWN	pa	0	1	proportional_analogiesS::13::6_10	"200-pound 11,000-pound"	1	6	0	0	1	0	bach	0
+A2A07J1P6YEW6Z	pa	0	7	proportional_analogiesS::13::6_10	"200 pounds 11,000 pounds"	1	4	0	0	1	0	grad	0
+A2P065E9CYMYJL	pa	0	1	proportional_analogiesS::13::6_10	200-pound 11000-pound	1	4	0	0	1	0	high	0
+A2ZJS73XSSMRTD	pa	0	11	proportional_analogiesS::13::6_10	"200-pound , 11,000 pounds"	0	0	0	0	1	0	high	0
+A31IZKL0SIL3MB	pa	0	8	proportional_analogiesS::13::6_10	"200-pound, 11,000 pounds"	0	0	0	0	1	0	high	0
+A37EV8RZ82WT8E	pa	0	15	proportional_analogiesS::13::6_10	"200-pound 11,000 pounds"	1	4	0	0	1	0	bach	0
+A37I58C4258IPX	pa	0	6	proportional_analogiesS::13::6_10	"200-pound 11,000-pound"	1	5	0	0	1	0	bach	0
+A38U3EWZNEOMUH	pa	0	7	proportional_analogiesS::13::6_10	"200-pound 11,000 pounds"	1	5	0	0	1	0	high	0
+A3N0QZ9ZKUCTCQ	pa	0	12	proportional_analogiesS::13::6_10	"200-pound 11,000 pounds "	1	6	0	0	1	0	bach	0
+A3QSFE6GKO157S	pa	0	2	proportional_analogiesS::13::6_10	"200-pound 11,000 pounds"	1	5	0	0	1	0	bach	0
+A423QQ5WN43B9	pa	0	2	proportional_analogiesS::13::6_10	"11,000 pounds"	1	4	0	0	1	0	grad	0
+A79EZLBBN7JVG	pa	0	8	proportional_analogiesS::13::6_10	200 pound 11000 pound	1	4	0	0	1	0	high	0
+A10DEO061A6L3O	pa	0	11	proportional_analogiesS::17::3_4	" 60,830,000,000 cubic km,1,083,210,000,000 cubic km"	0	0	0	0	1	0	bach	0
+A110KENBXU7SUJ	pa	0	1	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	1	5	0	0	1	0	high	0
+A16UAN46CNIRHY	pa	0	4	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	1	1	0	0	1	0	bach	0
+A1UY2W2FL9CWN	pa	0	11	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km,  1,083,210,000,000 cubic km"	1	5	0	0	1	0	bach	0
+A263KB3YR8VZTF	pa	0	4	proportional_analogiesS::17::3_4	" 60,830,000,000 cubic km  1,083,210,000,000 cubic km"	0	0	0	0	1	0	other	0
+A2A07J1P6YEW6Z	pa	0	15	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	1	0	0	1	0	grad	0
+A2DSQT79EPX7MY	pa	0	12	proportional_analogiesS::17::3_4	" 60,830,000,000 cubic km  1,083,210,000,000 cubic km"	1	3	0	0	1	0	high	0
+A2P065E9CYMYJL	pa	0	8	proportional_analogiesS::17::3_4	"60,830,000,000   1,083,210,000,000 cubic km"	0	0	0	0	1	0	high	0
+A31IZKL0SIL3MB	pa	0	15	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	0	0	0	1	0	high	0
+A37I58C4258IPX	pa	0	7	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	1	0	0	1	0	bach	0
+A38U3EWZNEOMUH	pa	0	11	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	0	0	0	1	0	high	0
+A3N0QZ9ZKUCTCQ	pa	0	3	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	1	0	0	1	0	bach	0
+A3NKA0NIM0TX5C	pa	0	1	proportional_analogiesS::17::3_4	" 1,100-pound 8,750 miles per hour  50 feet 60,830,000,000 cubic km 1,083,210,000,000 cubic km"	1	4	0	0	1	0	high	0
+A3P5WIW36V70AI	pa	0	9	proportional_analogiesS::17::3_4	"60,830,000,000 -t 1,083,210,000,000 cubic km"	1	2	0	0	1	0	high	0
+A423QQ5WN43B9	pa	0	7	proportional_analogiesS::17::3_4	"60,830,000,000  cubic Km"	1	4	0	0	1	0	grad	0
+AS1QMPXIT1EGX	pa	0	8	proportional_analogiesS::17::3_4	"60,830,000,000 cubic km 1,083,210,000,000 cubic km"	0	1	0	0	1	0	bach	0
+A110KENBXU7SUJ	pa	0	8	proportional_analogiesS::2::2_4	28 pounds 40 pounds	0	0	0	0	1	0	high	0
+A12HZGOZQD5YK7	pa	0	15	proportional_analogiesS::2::2_4	28 pounds 40 pounds	0	0	0	0	1	0	other	0
+A1BXZYF3XW11LQ	pa	0	7	proportional_analogiesS::2::2_4	28 pounds 40 pounds	0	3	0	0	1	0	bach	0
+A1UY2W2FL9CWN	pa	0	2	proportional_analogiesS::2::2_4	28 pounds 40 pounds	1	4	0	0	1	0	bach	0
+A263KB3YR8VZTF	pa	0	13	proportional_analogiesS::2::2_4	28 pounds 40 pounds	1	6	0	0	1	0	other	0
+A27O2IILV3S5YS	pa	0	10	proportional_analogiesS::2::2_4	40 pounds	1	6	0	0	1	0	bach	0
+A37EV8RZ82WT8E	pa	0	8	proportional_analogiesS::2::2_4	40 pounds 28 pounds	1	2	0	0	1	0	bach	0
+A37I58C4258IPX	pa	0	10	proportional_analogiesS::2::2_4	28 pounds 40 pounds	1	6	0	0	1	0	bach	0
+A38U3EWZNEOMUH	pa	0	3	proportional_analogiesS::2::2_4	28 pounds 40 punds	1	6	0	0	1	0	high	0
+A3N0QZ9ZKUCTCQ	pa	0	10	proportional_analogiesS::2::2_4	28 pounds 40 pounds	1	6	0	0	1	0	bach	0
+A3NKA0NIM0TX5C	pa	0	2	proportional_analogiesS::2::2_4	"1,000 feet 40 pounds"	1	4	0	0	1	0	high	0
+A3P5WIW36V70AI	pa	0	6	proportional_analogiesS::2::2_4	28-40 lbs	1	5	0	0	1	0	high	0
+A40LU73SS18IW	pa	0	6	proportional_analogiesS::2::2_4	28 pounds 40 pounds	0	1	0	0	1	0	bach	0
+A423QQ5WN43B9	pa	0	5	proportional_analogiesS::2::2_4	40 pounds	1	4	0	0	1	0	grad	0
+A79EZLBBN7JVG	pa	0	4	proportional_analogiesS::2::2_4	28 pounds 40 pounds	1	1	0	0	1	0	high	0
+A110KENBXU7SUJ	pa	0	6	proportional_analogiesS::4::0_3	" 9,800-foot 128-foot "	0	2	0	0	1	0	high	0
+A16UAN46CNIRHY	pa	0	5	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	1	6	0	0	1	0	bach	0
+A1BXZYF3XW11LQ	pa	0	2	proportional_analogiesS::4::0_3	"9,800-foot 5,000 cubic meters 128-foot"	1	6	0	0	1	0	bach	0
+A1EITLFAMKA61U	pa	0	12	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	0	1	0	0	1	0	high	0
+A1UY2W2FL9CWN	pa	0	5	proportional_analogiesS::4::0_3	"9,800 feet, 128 feet"	1	6	0	0	1	0	bach	0
+A263KB3YR8VZTF	pa	0	1	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	1	6	0	0	1	0	other	0
+A2A07J1P6YEW6Z	pa	0	11	proportional_analogiesS::4::0_3	"9,800 feet 128 feet"	1	5	0	0	1	0	grad	0
+A2DSQT79EPX7MY	pa	0	1	proportional_analogiesS::4::0_3	9800-foot 128-foot	1	5	0	0	1	0	high	0
+A2P065E9CYMYJL	pa	0	11	proportional_analogiesS::4::0_3	"9,800-foot  128-foot"	1	6	0	0	1	0	high	0
+A37EV8RZ82WT8E	pa	0	12	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	1	5	0	0	1	0	bach	0
+A37I58C4258IPX	pa	0	15	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	1	2	0	0	1	0	bach	0
+A38U3EWZNEOMUH	pa	0	1	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	1	5	0	0	1	0	high	0
+A3N0QZ9ZKUCTCQ	pa	0	15	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	1	6	0	0	1	0	bach	0
+A3NKA0NIM0TX5C	pa	0	8	proportional_analogiesS::4::0_3	" 9,800-foot  5,000 cubic meters  128-foot "	1	3	0	0	1	0	high	0
+A423QQ5WN43B9	pa	0	10	proportional_analogiesS::4::0_3	"9,800-foot"	1	5	0	0	1	0	grad	0
+A79EZLBBN7JVG	pa	0	5	proportional_analogiesS::4::0_3	9800 feet 128 foot	1	4	0	0	1	0	high	0
+AS1QMPXIT1EGX	pa	0	6	proportional_analogiesS::4::0_3	"9,800-foot 128-foot"	1	6	0	0	1	0	bach	0
+AZTTSP8SAHDR6	pa	0	3	proportional_analogiesS::4::0_3	"9,800 foot 128 foot"	1	4	0	0	1	0	bach	0
+A110KENBXU7SUJ	reunit	0	14	reunitizationS::1::0	" 4,225 dollars"	1	4	1	0	0	0	high	0
+A12HZGOZQD5YK7	reunit	0	14	reunitizationS::1::0	"4,225 dollars"	1	5	1	0	0	0	other	0
+A16UAN46CNIRHY	reunit	0	8	reunitizationS::1::0	"4,225 dollars"	1	5	1	0	0	0	bach	0
+A1BXZYF3XW11LQ	reunit	0	8	reunitizationS::1::0	"4,225 dollars 98 dollars 200 dollars "	1	4	1	0	0	0	bach	0
+A1EITLFAMKA61U	reunit	0	15	reunitizationS::1::0	"4,225 dollars"	1	5	1	0	0	0	high	0
+A1UY2W2FL9CWN	reunit	0	12	reunitizationS::1::0	"4,225 dollars"	1	5	1	0	0	0	bach	0
+A263KB3YR8VZTF	reunit	0	2	reunitizationS::1::0	"4,225 dollars"	1	3	1	0	0	0	other	0
+A2A07J1P6YEW6Z	reunit	0	14	reunitizationS::1::0	"4,225 dollars"	1	4	1	0	0	0	grad	0
+A2DSQT79EPX7MY	reunit	0	8	reunitizationS::1::0	"4,225 dollars"	1	2	1	0	0	0	high	0
+A2P065E9CYMYJL	reunit	0	9	reunitizationS::1::0	"4,225 dollars"	1	2	1	0	0	0	high	0
+A2TYLR23CHRULH	reunit	0	15	reunitizationS::1::0	"4,225 dollars"	1	5	1	0	0	0	high	0
+A2YLLYJ04QIRXZ	reunit	0	2	reunitizationS::1::0	"4,335 dollars"	1	6	1	0	0	0	bach	0
+A38U3EWZNEOMUH	reunit	0	14	reunitizationS::1::0	"4,225 dollars"	1	6	1	0	0	0	high	0
+A3N0QZ9ZKUCTCQ	reunit	0	6	reunitizationS::1::0	" 4,225 dollars"	1	5	1	0	0	0	bach	0
+A3P5WIW36V70AI	reunit	0	7	reunitizationS::1::0	4225 dollars	1	3	1	0	0	0	high	0
+AS1QMPXIT1EGX	reunit	0	7	reunitizationS::1::0	"4,225 dollars"	1	5	1	0	0	0	bach	0
+A12HZGOZQD5YK7	reunit	0	7	reunitizationS::13::0	500 pounds	1	4	1	0	0	0	other	0
+A1BXZYF3XW11LQ	reunit	0	15	reunitizationS::13::0	"500 pounds 7,700 pounds 2 mi 200 pounds 12 pounds 11,000 pounds"	0	2	1	0	0	0	bach	0
+A1EITLFAMKA61U	reunit	0	3	reunitizationS::13::0	500 pounds	1	3	1	0	0	0	high	0
+A263KB3YR8VZTF	reunit	0	12	reunitizationS::13::0	500 pounds	1	6	1	0	0	0	other	0
+A27O2IILV3S5YS	reunit	0	11	reunitizationS::13::0	500 pounds	1	6	1	0	0	0	bach	0
+A2A07J1P6YEW6Z	reunit	0	2	reunitizationS::13::0	500 pounds	1	5	1	0	0	0	grad	0
+A2P065E9CYMYJL	reunit	0	5	reunitizationS::13::0	500 pounds	1	3	1	0	0	0	high	0
+A2TYLR23CHRULH	reunit	0	14	reunitizationS::13::0	500 pounds	1	6	1	0	0	0	high	0
+A2YLLYJ04QIRXZ	reunit	0	10	reunitizationS::13::0	500 pounds	1	6	1	0	0	0	bach	0
+A31IZKL0SIL3MB	reunit	0	12	reunitizationS::13::0	500 pounds	1	6	1	0	0	0	high	0
+A3QSFE6GKO157S	reunit	0	10	reunitizationS::13::0	500 pounds	1	6	1	0	0	0	bach	0
+A40LU73SS18IW	reunit	0	4	reunitizationS::13::0	500 pounds	1	6	1	0	0	0	bach	0
+AZTTSP8SAHDR6	reunit	0	2	reunitizationS::13::0	500 pounds		4	1	0	0	0	bach	0
+A16UAN46CNIRHY	reunit	0	3	reunitizationS::14::7	18.3 meters	1	6	1	0	0	0	bach	0
+A1EITLFAMKA61U	reunit	0	14	reunitizationS::14::7	n/a	0	0	1	0	0	0	high	1
+A263KB3YR8VZTF	reunit	0	9	reunitizationS::14::7	18.3 meters	1	6	1	0	0	0	other	0
+A27O2IILV3S5YS	reunit	0	15	reunitizationS::14::7	18.3 meters		6	1	0	0	0	bach	0
+A2DSQT79EPX7MY	reunit	0	14	reunitizationS::14::7	18.3 meters	0	0	1	0	0	0	high	0
+A2P065E9CYMYJL	reunit	0	2	reunitizationS::14::7	 18.3 meters	1	1	1	0	0	0	high	0
+A37EV8RZ82WT8E	reunit	0	1	reunitizationS::14::7	18.3 meters	1	5	1	0	0	0	bach	0
+A37I58C4258IPX	reunit	0	8	reunitizationS::14::7	18.3 meters	1	5	1	0	0	0	bach	0
+A3NKA0NIM0TX5C	reunit	0	10	reunitizationS::14::7	" 1,384 meters long, 125-meter  "	1	4	1	0	0	0	high	0
+A40LU73SS18IW	reunit	0	8	reunitizationS::14::7	18.3 meters	1	5	1	0	0	0	bach	0
+A423QQ5WN43B9	reunit	0	13	reunitizationS::14::7	125 meter	1	3	1	0	0	0	grad	0
+A79EZLBBN7JVG	reunit	0	11	reunitizationS::14::7	18.3 meters	1	5	1	0	0	0	high	0
+AS1QMPXIT1EGX	reunit	0	13	reunitizationS::14::7	18.3 meters	1	6	1	0	0	0	bach	0
+AZTTSP8SAHDR6	reunit	0	12	reunitizationS::14::7	18.3 meters	1	5	1	0	0	0	bach	0
+A12HZGOZQD5YK7	reunit	0	6	reunitizationS::16::0	85 kilogram	1	4	1	0	0	0	other	0
+A1EITLFAMKA61U	reunit	0	1	reunitizationS::16::0	85 kilogram	0	2	1	0	0	0	high	0
+A263KB3YR8VZTF	reunit	0	3	reunitizationS::16::0	85 kilogram	1	6	1	0	0	0	other	0
+A27O2IILV3S5YS	reunit	0	8	reunitizationS::16::0	85 kilogram	1	6	1	0	0	0	bach	0
+A2A07J1P6YEW6Z	reunit	0	13	reunitizationS::16::0	85 kilograms	1	3	1	0	0	0	grad	0
+A2P065E9CYMYJL	reunit	0	6	reunitizationS::16::0	 85 kilogram	1	3	1	0	0	0	high	0
+A2S3MXU8T2I5H0	reunit	0	5	reunitizationS::16::0	85 kilogram	1	3	1	0	0	0	high	0
+A2TYLR23CHRULH	reunit	0	12	reunitizationS::16::0	85 kilogram 	1	5	1	0	0	0	high	0
+A2YLLYJ04QIRXZ	reunit	0	11	reunitizationS::16::0	85 kilograms	1	6	1	0	0	0	bach	0
+A37EV8RZ82WT8E	reunit	0	14	reunitizationS::16::0	85 kilogram	1	5	1	0	0	0	bach	0
+A37I58C4258IPX	reunit	0	3	reunitizationS::16::0	85 kilogram 	1	3	1	0	0	0	bach	0
+A3P5WIW36V70AI	reunit	0	3	reunitizationS::16::0	85 kilograms	1	4	1	0	0	0	high	0
+A40LU73SS18IW	reunit	0	5	reunitizationS::16::0	85 kilogram	0	0	1	0	0	0	bach	0
+A423QQ5WN43B9	reunit	0	3	reunitizationS::16::0	85 Kilogram	1	2	1	0	0	0	grad	0
+A79EZLBBN7JVG	reunit	0	15	reunitizationS::16::0	85 kilogram	1	5	1	0	0	0	high	0
+A110KENBXU7SUJ	reunit	0	9	reunitizationS::8::0	"3,650 dollars"	1	3	1	0	0	0	high	0
+A12HZGOZQD5YK7	reunit	0	5	reunitizationS::8::0	"3,650 dollars"	1	4	1	0	0	0	other	0
+A16UAN46CNIRHY	reunit	0	11	reunitizationS::8::0	"3,650 dollars"	1	3	1	0	0	0	bach	0
+A1BXZYF3XW11LQ	reunit	0	10	reunitizationS::8::0	"3,650 dollars"	0	2	1	0	0	0	bach	0
+A1UY2W2FL9CWN	reunit	0	3	reunitizationS::8::0	"3,650 dollars"	1	5	1	0	0	0	bach	0
+A1VL7507UONPX0	reunit	0	4	reunitizationS::8::0	"3,650 dollars"	1	4	1	0	0	0	bach	0
+A2A07J1P6YEW6Z	reunit	0	6	reunitizationS::8::0	"3,650 dollars"	1	3	1	0	0	0	grad	0
+A2DSQT79EPX7MY	reunit	0	15	reunitizationS::8::0	"3,650 dollars"	1	2	1	0	0	0	high	0
+A2P065E9CYMYJL	reunit	0	3	reunitizationS::8::0	"3,650 dollars"	0	1	1	0	0	0	high	0
+A2S3MXU8T2I5H0	reunit	0	12	reunitizationS::8::0	"3,650 dollars"	1	3	1	0	0	0	high	0
+A31IZKL0SIL3MB	reunit	0	3	reunitizationS::8::0	"$3,650 "	1	6	1	0	0	0	high	0
+A38U3EWZNEOMUH	reunit	0	2	reunitizationS::8::0	"3,650 dollars"	1	5	1	0	0	0	high	0
+A3N0QZ9ZKUCTCQ	reunit	0	1	reunitizationS::8::0	"3,650 dollars"	1	6	1	0	0	0	bach	0
+A3NKA0NIM0TX5C	reunit	0	15	reunitizationS::8::0	"3.5,000,000,000 people"	0	2	1	0	0	0	high	1
+A3QSFE6GKO157S	reunit	0	14	reunitizationS::8::0	"3,650 dollars"	1	6	1	0	0	0	bach	0
+AS1QMPXIT1EGX	reunit	0	2	reunitizationS::8::0	"3,659 dollars"	1	6	1	0	0	0	bach	0
+AZTTSP8SAHDR6	reunit	0	13	reunitizationS::8::0	"3,650 dollars"	0	2	1	0	0	0	bach	0
+A10DEO061A6L3O	reunit	1	15	reunitizationR::1::0	"4,225 dollars "	1	5	1	0	0	0	bach	0
+A1VL7507UONPX0	reunit	1	14	reunitizationR::1::0	"4,225 dollars"	1	4	1	0	0	0	bach	0
+A27O2IILV3S5YS	reunit	1	5	reunitizationR::1::0	"4,225 dollars"	1	6	1	0	0	0	bach	0
+A2S3MXU8T2I5H0	reunit	1	4	reunitizationR::1::0	"4,225 dollars"	1	1	1	0	0	0	high	0
+A2ZJS73XSSMRTD	reunit	1	9	reunitizationR::1::0	"4,225 dollars"	0	0	1	0	0	0	high	0
+A31IZKL0SIL3MB	reunit	1	10	reunitizationR::1::0	"4,225 dollars"	1	6	1	0	0	0	high	0
+A37EV8RZ82WT8E	reunit	1	9	reunitizationR::1::0	"4,225 dollars"	1	5	1	0	0	0	bach	0
+A37I58C4258IPX	reunit	1	12	reunitizationR::1::0	"4,225 dollars"	1	4	1	0	0	0	bach	0
+A3NKA0NIM0TX5C	reunit	1	12	reunitizationR::1::0	technical error not displayed	0	3	1	0	0	0	high	1
+A3QSFE6GKO157S	reunit	1	5	reunitizationR::1::0	"4,225 dollars"	1	6	1	0	0	0	bach	0
+A40LU73SS18IW	reunit	1	15	reunitizationR::1::0	"4,225 dollars"	1	4	1	0	0	0	bach	0
+A423QQ5WN43B9	reunit	1	1	reunitizationR::1::0	"4,225 dollars"	1	6	1	0	0	0	grad	0
+A79EZLBBN7JVG	reunit	1	7	reunitizationR::1::0	4225 dollars	0	0	1	0	0	0	high	0
+AZTTSP8SAHDR6	reunit	1	14	reunitizationR::1::0	"4,225 dollars"	0	2	1	0	0	0	bach	0
+A10DEO061A6L3O	reunit	1	10	reunitizationR::13::0	500 pounds 	1	6	1	0	0	0	bach	0
+A110KENBXU7SUJ	reunit	1	5	reunitizationR::13::0	500 pounds	1	5	1	0	0	0	high	0
+A16UAN46CNIRHY	reunit	1	2	reunitizationR::13::0	500 pounds	1	6	1	0	0	0	bach	0
+A1UY2W2FL9CWN	reunit	1	9	reunitizationR::13::0	500 pounds	1	5	1	0	0	0	bach	0
+A1VL7507UONPX0	reunit	1	2	reunitizationR::13::0	500 pounds	1	5	1	0	0	0	bach	0
+A2DSQT79EPX7MY	reunit	1	6	reunitizationR::13::0	500 pounds	1	6	1	0	0	0	high	0
+A2S3MXU8T2I5H0	reunit	1	14	reunitizationR::13::0	500 pounds	1	1	1	0	0	0	high	0
+A2ZJS73XSSMRTD	reunit	1	10	reunitizationR::13::0	500 pounds	0	2	1	0	0	0	high	0
+A37EV8RZ82WT8E	reunit	1	6	reunitizationR::13::0	500 pounds	1	6	1	0	0	0	bach	0
+A37I58C4258IPX	reunit	1	2	reunitizationR::13::0	500 pounds 	1	5	1	0	0	0	bach	0
+A38U3EWZNEOMUH	reunit	1	12	reunitizationR::13::0	500 pounds	1	5	1	0	0	0	high	0
+A3N0QZ9ZKUCTCQ	reunit	1	14	reunitizationR::13::0	500 pounds	1	4	1	0	0	0	bach	0
+A3NKA0NIM0TX5C	reunit	1	9	reunitizationR::13::0	"500 pounds 7,700 pounds  2 mi  200-pound   11,000 pounds "	1	4	1	0	0	0	high	0
+A3P5WIW36V70AI	reunit	1	10	reunitizationR::13::0	500 lbs	1	1	1	0	0	0	high	0
+A423QQ5WN43B9	reunit	1	4	reunitizationR::13::0	500 pounds	1	4	1	0	0	0	grad	0
+A79EZLBBN7JVG	reunit	1	10	reunitizationR::13::0	500 pounds	1	2	1	0	0	0	high	0
+AS1QMPXIT1EGX	reunit	1	14	reunitizationR::13::0	500 pounds	1	6	1	0	0	0	bach	0
+A10DEO061A6L3O	reunit	1	8	reunitizationR::14::7	18.3 meters	1	3	1	0	0	0	bach	0
+A110KENBXU7SUJ	reunit	1	2	reunitizationR::14::7	18.3 meters	1	6	1	0	0	0	high	0
+A12HZGOZQD5YK7	reunit	1	12	reunitizationR::14::7	18.3 meters	0	1	1	0	0	0	other	0
+A1BXZYF3XW11LQ	reunit	1	4	reunitizationR::14::7	"1,384 meters 125-meter 4-kilometer 6-kilometer 7.5-kilometer 150-meter 234 meters 18.3 meters 6.8-meter "	0	0	1	0	0	0	bach	0
+A1UY2W2FL9CWN	reunit	1	10	reunitizationR::14::7	18.3 meters	1	4	1	0	0	0	bach	0
+A1VL7507UONPX0	reunit	1	15	reunitizationR::14::7	18.3 meters	0	1	1	0	0	0	bach	0
+A2A07J1P6YEW6Z	reunit	1	3	reunitizationR::14::7	18.3 meters	0	1	1	0	0	0	grad	0
+A2S3MXU8T2I5H0	reunit	1	1	reunitizationR::14::7	18.3 meters	0	1	1	0	0	0	high	0
+A2TYLR23CHRULH	reunit	1	5	reunitizationR::14::7	 18.3 meters 	1	5	1	0	0	0	high	0
+A2YLLYJ04QIRXZ	reunit	1	7	reunitizationR::14::7	18.3 meters	0	0	1	0	0	0	bach	0
+A2ZJS73XSSMRTD	reunit	1	7	reunitizationR::14::7	18.3 meters 	0	1	1	0	0	0	high	0
+A31IZKL0SIL3MB	reunit	1	13	reunitizationR::14::7	18.3 meters	0	1	1	0	0	0	high	0
+A38U3EWZNEOMUH	reunit	1	15	reunitizationR::14::7	18.3 meters	0	0	1	0	0	0	high	0
+A3N0QZ9ZKUCTCQ	reunit	1	13	reunitizationR::14::7	18.3 meters	1	5	1	0	0	0	bach	0
+A3P5WIW36V70AI	reunit	1	13	reunitizationR::14::7	18.3 meters	0	1	1	0	0	0	high	0
+A3QSFE6GKO157S	reunit	1	13	reunitizationR::14::7	18.3 meters	0	2	1	0	0	0	bach	0
+A10DEO061A6L3O	reunit	1	7	reunitizationR::16::0	85 kilogram	1	5	1	0	0	0	bach	0
+A110KENBXU7SUJ	reunit	1	10	reunitizationR::16::0	85 kilogram	0	1	1	0	0	0	high	0
+A16UAN46CNIRHY	reunit	1	15	reunitizationR::16::0	85 kilogram	1	3	1	0	0	0	bach	0
+A1BXZYF3XW11LQ	reunit	1	5	reunitizationR::16::0	85 kilogram	0	0	1	0	0	0	bach	0
+A1UY2W2FL9CWN	reunit	1	6	reunitizationR::16::0	85 kg	1	6	1	0	0	0	bach	0
+A1VL7507UONPX0	reunit	1	1	reunitizationR::16::0	85 kilogram	1	5	1	0	0	0	bach	0
+A2DSQT79EPX7MY	reunit	1	2	reunitizationR::16::0	85 kilogram	1	5	1	0	0	0	high	0
+A2ZJS73XSSMRTD	reunit	1	12	reunitizationR::16::0	85 kilogram 	1	4	1	0	0	0	high	0
+A31IZKL0SIL3MB	reunit	1	14	reunitizationR::16::0	85 kilogram	0	0	1	0	0	0	high	0
+A38U3EWZNEOMUH	reunit	1	5	reunitizationR::16::0	85 kilogram	1	5	1	0	0	0	high	0
+A3N0QZ9ZKUCTCQ	reunit	1	5	reunitizationR::16::0	85 kilogram	1	6	1	0	0	0	bach	0
+A3NKA0NIM0TX5C	reunit	1	7	reunitizationR::16::0	85 kilogram	0	1	1	0	0	0	high	0
+A3QSFE6GKO157S	reunit	1	12	reunitizationR::16::0	85 kilogram	1	4	1	0	0	0	bach	0
+AS1QMPXIT1EGX	reunit	1	11	reunitizationR::16::0	85 kilogram	1	4	1	0	0	0	bach	0
+AZTTSP8SAHDR6	reunit	1	7	reunitizationR::16::0	85 kilogram	0	0	1	0	0	0	bach	0
+A10DEO061A6L3O	reunit	1	2	reunitizationR::8::0	3650 dollars	0	0	1	0	0	0	bach	0
+A1EITLFAMKA61U	reunit	1	8	reunitizationR::8::0	"3,650 dollars"	1	5	1	0	0	0	high	0
+A263KB3YR8VZTF	reunit	1	5	reunitizationR::8::0	"3,650 dollars"	1	4	1	0	0	0	other	0
+A27O2IILV3S5YS	reunit	1	3	reunitizationR::8::0	"3,650 dollars"	1	6	1	0	0	0	bach	0
+A2TYLR23CHRULH	reunit	1	8	reunitizationR::8::0	"3,650 dollars"	1	5	1	0	0	0	high	0
+A2YLLYJ04QIRXZ	reunit	1	15	reunitizationR::8::0	"3,650 dollars"	0	0	1	0	0	0	bach	0
+A2ZJS73XSSMRTD	reunit	1	6	reunitizationR::8::0	"3,650 dollars "	0	1	1	0	0	0	high	0
+A37EV8RZ82WT8E	reunit	1	11	reunitizationR::8::0	"3,650 dollars"	1	1	1	0	0	0	bach	0
+A37I58C4258IPX	reunit	1	5	reunitizationR::8::0	"3,650 dollars"	1	3	1	0	0	0	bach	0
+A3P5WIW36V70AI	reunit	1	11	reunitizationR::8::0	3650 dollars	0	1	1	0	0	0	high	0
+A40LU73SS18IW	reunit	1	12	reunitizationR::8::0	" 3,650 dollars"	0	0	1	0	0	0	bach	0
+A423QQ5WN43B9	reunit	1	9	reunitizationR::8::0	"3,650 dollas"	0	3	1	0	0	0	grad	0
+A79EZLBBN7JVG	reunit	1	6	reunitizationR::8::0	3650 dollars	0	0	1	0	0	0	high	0

@@ -1,0 +1,128 @@
+---
+title: "Improving Comprehension of Measurements Using Concrete Re-expression Strategies: Usefulness Study - Re-expressions versus Random Re-expressions"
+author: "Jessica Hullman"
+date: "12/30/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+require(lme4)
+library(plyr)
+```
+
+## Load Data
+Description: Study is between subjects repreated measures, workers completed 15 trials presentng news article where a highlighted measurement(s) was re-expressed using randomly drawn objects from the database or was re-expressed using Adding Familiar Context or Reunitization. 
+Remember to navigate to the directory with this file and the data file using setwd(). Use getwd() to check your current directory
+
+```{r}
+ads <- read.csv("./chi_study2_forR_random.txt", sep="\t", header=TRUE)
+nrow(ads) 
+ads <- subset(ads, ads$drop!=1)
+nrow(ads) 
+
+#Number of workers
+unique(ads$workerId)
+
+```
+
+## Set up
+Transform variables, check count per condition
+
+
+```{r} 
+ads$rand <- as.factor(ads$rand)
+ads$q2rate <- ads$q2rate + 1
+ads$q1YN <- as.numeric(ads$q1YN)
+
+summary(ads$cond)
+```
+#Summary stats
+Response to Q1 - Is the article content helpful for understanding the highlighted measurement
+Response to Q2 - Rate your level of agreement with the statement, the article content is helpful for understanding the highlighted measurement
+
+```{r}
+ddply(ads, ~cond, summarise, mean=mean(q1YN, na.rm=TRUE), sd=sd(q1YN, na.rm=TRUE))
+ddply(ads, ~cond, summarise, mean=mean(q2rate, na.rm=TRUE), sd=sd(q2rate, na.rm=TRUE))
+```
+
+#Subset data for models
+Proportional analogy and the No Re-expression treatments for pairs of measurements
+Adding Familiar Content, Reunitization, and the No Re-expression treatments for single measurements
+
+```{r}
+ads_pa <- subset(ads, ads$cond=="pa" | ads$task == "offS::11::3_4" | ads$task=="offS::13::6_10" | ads$task=="offS::17::3_4" | ads$task=="offS::2::2_4" | ads$task=="offS::4::0_3") 
+nrow(ads_pa) #151
+ads_reint <- subset(ads, ads$cond != "pa")
+nrow(ads_reint) #383 
+
+ads_reint <- subset(ads_reint, ads_reint$task != "offS::11::3_4" & ads_reint$task!="offS::13::6_10" & ads_reint$task!="offS::17::3_4" & ads_reint$task!="offS::2::2_4" & ads_reint$task!="offS::4::0_3")
+nrow(ads_reint) #302
+```
+
+#Remove Proportional Analogy and Off Trials - 1st study already compares
+
+
+```{r}
+
+ads <- subset(ads, ads$cond!="pa") #365
+ads <- subset(ads, ads$cond!="off") #293
+```
+
+#Summary stats
+Response to Q1 - Is the article content helpful for understanding the highlighted measurement
+Response to Q2 - Rate your level of agreement with the statement, the article content is helpful for understanding the highlighted measurement
+
+```{r}
+ddply(ads, ~cond, summarise, mean=mean(q1YN, na.rm=TRUE), sd=sd(q1YN, na.rm=TRUE))
+ddply(ads, ~cond, summarise, mean=mean(q2rate, na.rm=TRUE), sd=sd(q2rate, na.rm=TRUE))
+```
+
+
+#Adding Familiar Context, Reunitization, and Random  - Q1
+Mixed effects logistic regression to compare probability of responding "Yes" to Q1
+
+```{r}
+mQ1 <- glmer(q1YN ~  reunit + rand + order + (1 | workerId), data = ads, family = binomial, control = glmerControl(optimizer = "bobyqa"), nAGQ = 10)
+summary(mQ1)
+```
+
+
+Coefficients for fixed effects, with intervals (95%, on logit scale) and odds ratios
+
+```{r}
+se <- sqrt(diag(vcov(mQ1)))
+tab <- cbind(Est = fixef(mQ1), LL = fixef(mQ1) - 1.96 * se, UL = fixef(mQ1) + 1.96 * se)
+
+print(exp(tab), digits=3)
+```
+
+Change to express how much more likely you are to say Y to Q1 in adding familiar context, with CI
+
+```{r}
+1/0.0685 
+1/0.16
+1/0.03
+````
+
+
+Mixed effects linear regression to compare helpfulness ratings for Q2
+
+
+```{r}
+full.model <- lmer(q2rate  ~ reunit + rand + (1 | workerId), data = ads)
+summary(full.model)
+
+#Checking model significance  - NHST
+null_rand.model <- lmer(q2rate  ~ reunit + (1 | workerId), data = ads)
+anova(full.model,null_rand.model)
+```
+
+Coefficients for fixed effects and and 95% confidence intervals
+
+```{r}
+fixef(full.model)
+confint(full.model)
+```
+
