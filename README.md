@@ -5,10 +5,11 @@ Hullman, Jessica, Kim, Yea-Seul, Nguyen, Francis, Speers, Lauren, and Agrawala, 
 
 Directories in this repo are:
 
-measureDB - Data sets including instance data from Amazon, DBpedia, and Freebase, measurements aggregated by synset, and synset images from ImageNet
+  measureDB - Data sets including instance data from Amazon, DBpedia, and Freebase, measurements aggregated by synset, and 
+  synset images from ImageNet
 
-crowdData - Data obtained from crowdsourced countability/rigidity and familiarity tasks.
+  crowdData - Data obtained from crowdsourced countability/rigidity and familiarity tasks.
 
-evaluation/user studies - Directories containing data and R Markdown analysis scripts from each of our three user studies
+  evaluation/user studies - Directories containing data and R Markdown analysis scripts from each of our three user studies
 
-evaluation/compare_to_MT_DN_WA - 
+  evaluation/compare_to_MT_DN_WA - 
