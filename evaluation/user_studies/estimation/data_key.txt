@@ -1,9 +1,10 @@
 token - Given to worker to confirm they completed HIT
 order - Order of blocks for that worker (reunit_first: worker first did Reunitization trials, then No Re-expression trials)
-order_none_d - Dummy code for block order, if No Re-expression was first, =0, else =1 
-order_reunit_d - Dummy code for block order, if Reunitization was first, =0, else =1 
+order_within_block - The order of the trial within that block (1-8) 
+order_n - The order of the trial across all 16 trials
 reunit_d - Dummy code to indicate condition for that trial, if not Reunitization =0, else =1
 none_d - Dummy code to indicate condition for that trial, if not No Re-expression =0, else =1 
+cond - The condition
 task - Which of 8 total tasks (Amazon instances) - task1, 2, 5, 6, 7, 11, or 12 was presented on that trial
 final_value - Workers estimate for the measurement of the object
 true_value - The actual measurement for that object (from Amazon)

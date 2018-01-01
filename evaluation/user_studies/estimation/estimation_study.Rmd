@@ -8,9 +8,11 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(plyr)
+library(lme4)
 ```
 
-## Read in data
+## Read in and transform data
 
 Responses for Adding Familiar Context and Reunitization are in separate files (workers did one or the other along with No Re-expression trials in the within-subjects design)
 
@@ -21,14 +23,19 @@ nrow(adsc) #960
 adsr <- read.csv("result_reunit.csv", sep=",", header=TRUE)
 nrow(adsr) # 960
 
+#convert order (designating the order of blocks) into a factor
+adsc$order <- as.factor(adsc$order)
+adsr$order <- as.factor(adsc$order)
+
 ```
 
 ## Summary stats
 
 
 ```{r}
-summary(adsc)
-summary(adsr)
+#number of workers
+summary(adsc$token)
+summary(adsr$token)
 
 ddply(adsc, ~cond, summarise, mean=mean(abs_diff_ratio, na.rm=TRUE), sd=sd(abs_diff_ratio, na.rm=TRUE))
 
@@ -39,7 +46,7 @@ ddply(adsr, ~cond, summarise, mean=mean(abs_diff_ratio, na.rm=TRUE), sd=sd(abs_d
 #Adding Familiar Context vs No Re-expressions
 
 ```{r}
-context.model <- lmer(abs_diff_ratio  ~ integ_d + order_n  + (1 | token) + (1 |task), data=adsc)
+context.model <- lmer(abs_diff_ratio  ~ integ_d + order + order_within_block + (1 | token) + (1 | task), data=adsc)
 summary(context.model)
 
 ```
@@ -54,14 +61,14 @@ confint(context.model)
 NHST method - checks for reliable difference when condition is taken into account
 
 ```{r}
-nullcontext.model <- lmer(abs_diff_ratio  ~  order_n + (1 | token) + (1 |task), data=adsc)
+nullcontext.model <- lmer(abs_diff_ratio  ~  order + order_within_block + (1 | token) + (1 |task), data=adsc)
 anova(context.model, nullcontext.model)
 ```
 
 #Reunitization vs No Re-expressions
 
 ```{r}
-reunit.model <- lmer(abs_diff_ratio  ~ reunit_d + order_n  + (1 | token) + (1 |task), data=adsr)
+reunit.model <- lmer(abs_diff_ratio  ~ reunit_d + order + order_within_block  + (1 | token) + (1 |task), data=adsr)
 summary(reunit.model)
 
 ```
@@ -76,7 +83,7 @@ confint(reunit.model)
 NHST method - checks for reliable difference when condition is taken into account
 
 ```{r}
-nullreunit.model <- lmer(abs_diff_ratio  ~  order_n +(1 | token) + (1 |task), data=adsr)
+nullreunit.model <- lmer(abs_diff_ratio  ~  order + order_within_block +(1 | token) + (1 |task), data=adsr)
 anova(reunit.model, nullreunit.model)
 ```
 
