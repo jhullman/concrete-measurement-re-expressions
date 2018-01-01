@@ -1,3 +1,7 @@
+The xlsx file in this folder contains results from the grid familiarity task described in the paper.
+
+Columns are as follows:
+
 type - measure: weight, height, length, volume 
 workerid - MTurk workerId
 measurement - measurement presented to worker to 're-express' via objects, in lbs (weight), ft (height, length) or gallons (volume)
