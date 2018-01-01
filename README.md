@@ -1,10 +1,10 @@
-# Concrete-measurement-re-expressions
-This repo contains data sets, analyses, and other materials for the paper:
+#### Concrete-measurement-re-expressions
+###Data sets, analyses, and other materials 
 
-  Hullman, Jessica, Kim, Yea-Seul, Nguyen, Francis, Speers, Lauren, and Agrawala, Maneesh. Improving Comprehension of 
-  Measurements Using Concrete Re-expression Strategies. ACM CHI 2018. 
+  #Hullman, Jessica, Kim, Yea-Seul, Nguyen, Francis, Speers, Lauren, and Agrawala, Maneesh. Improving Comprehension of 
+  #Measurements Using Concrete Re-expression Strategies. ACM CHI 2018. 
 
-Directories in this repo are:
+###Directories
 
 
   crowdData - Data obtained from crowdsourced countability/rigidity and familiarity tasks.
