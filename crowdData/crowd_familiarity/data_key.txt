@@ -1,0 +1,6 @@
+type - measure: weight, height, length, volume 
+workerid - MTurk workerId
+measurement - measurement presented to worker to 're-express' via objects, in lbs (weight), ft (height, length) or gallons (volume)
+ranking - the ranking assigned to the object based on the workers placement. 1 - 4 or 20 (default if object is not chosen)
+object_name - the synset name
+
