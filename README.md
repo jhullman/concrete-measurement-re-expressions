@@ -17,7 +17,7 @@
        - **compare_to_MT_DN_WA** - Reunitizations from three existing solutions for automated reunitization for comparison to our automated reunitization results. 
        - **compare_to_human_ranked** - Summarizes our comparison of our automated strategies' rankings of results to human ranked reunitizations
 
-  - **measureDB** - Data sets including instance data from Amazon, DBpedia, and Freebase, measurements aggregated by synset, and 
+  - **measureDB/** - Data sets including instance data from Amazon, DBpedia, and Freebase, measurements aggregated by synset, and 
   synset images from ImageNet
 
-  - **results_tables** - Tables of results for each concrete re-expression strategy
+  - **results_tables/** - Tables of results for each concrete re-expression strategy
