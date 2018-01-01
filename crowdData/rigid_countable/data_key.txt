@@ -1,0 +1,16 @@
+rigid_filter.results.csv contains workers' judgments of whether a synset is rigid or not
+
+assignId - MTurk assignmentId
+workerId - MTurk workerId
+item - the first synonym for the synset and the synset id
+noun - the first synonym for the synset 
+synid - the synset id
+rigid - 1 if the worker said the synset was rigid, 0 if not
+
+units_count_amz.results.txt contains workers' judgments of whether a synset is countable and likely to be purchasable on Amazon (for effeciency in building the database)
+
+assignmentid - MTurk assignmentId   
+workerid - MTurk workerId        
+Answer.task - the string containing the 10 synsets the worker saw in that HIT     
+Answer.myanswersA - the worker's judgments of whether each synset is likely to be purchaseable on Amazon (1=yes, 0=no)       
+Answer.myanswersC - the worker's judgments of whether each synset is countable (1=yes, 0=no)
