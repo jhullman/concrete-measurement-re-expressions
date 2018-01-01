@@ -1,8 +1,8 @@
 # Concrete-measurement-re-expressions
 ## Data sets, analyses, and other materials for:
 
-  **Hullman, Jessica, Kim, Yea-Seul, Nguyen, Francis, Speers, Lauren, and Agrawala, Maneesh. Improving Comprehension of 
-  Measurements Using Concrete Re-expression Strategies. ACM CHI 2018.** 
+  *Hullman, Jessica, Kim, Yea-Seul, Nguyen, Francis, Speers, Lauren, and Agrawala, Maneesh. Improving Comprehension of 
+  Measurements Using Concrete Re-expression Strategies. ACM CHI 2018.* 
 
 ## Directories
 
