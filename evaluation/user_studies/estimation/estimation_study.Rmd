@@ -1,0 +1,82 @@
+---
+title: 'Improving Comprehension of Measurements Using Concrete Re-expression Strategies:
+  Estimation Study'
+author: "Jessica Hullman"
+date: "12/31/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Read in data
+
+Responses for Adding Familiar Context and Reunitization are in separate files (workers did one or the other along with No Re-expression trials in the within-subjects design)
+
+```{r}
+adsc <- read.csv("result_context.csv", sep=",", header=TRUE)
+nrow(adsc) #960
+
+adsr <- read.csv("result_reunit.csv", sep=",", header=TRUE)
+nrow(adsr) # 960
+
+```
+
+## Summary stats
+
+
+```{r}
+summary(adsc)
+summary(adsr)
+
+ddply(adsc, ~cond, summarise, mean=mean(abs_diff_ratio, na.rm=TRUE), sd=sd(abs_diff_ratio, na.rm=TRUE))
+
+ddply(adsr, ~cond, summarise, mean=mean(abs_diff_ratio, na.rm=TRUE), sd=sd(abs_diff_ratio, na.rm=TRUE))
+
+```
+
+#Adding Familiar Context vs No Re-expressions
+
+```{r}
+context.model <- lmer(abs_diff_ratio  ~ integ_d + order_n  + (1 | token) + (1 |task), data=adsc)
+summary(context.model)
+
+```
+
+Coefficients and confidence intervals (95%)
+
+```{r}
+fixef(context.model)
+confint(context.model)
+```
+
+NHST method - checks for reliable difference when condition is taken into account
+
+```{r}
+nullcontext.model <- lmer(abs_diff_ratio  ~  order_n + (1 | token) + (1 |task), data=adsc)
+anova(context.model, nullcontext.model)
+```
+
+#Reunitization vs No Re-expressions
+
+```{r}
+reunit.model <- lmer(abs_diff_ratio  ~ reunit_d + order_n  + (1 | token) + (1 |task), data=adsr)
+summary(reunit.model)
+
+```
+
+Coefficients and confidence intervals (95%)
+
+```{r}
+fixef(reunit.model)
+confint(reunit.model)
+```
+
+NHST method - checks for reliable difference when condition is taken into account
+
+```{r}
+nullreunit.model <- lmer(abs_diff_ratio  ~  order_n +(1 | token) + (1 |task), data=adsr)
+anova(reunit.model, nullreunit.model)
+```
+
