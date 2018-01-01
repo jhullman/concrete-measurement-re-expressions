@@ -1,0 +1,1 @@
+This directory contains three folders, one for the estimation study, the usefulness study comparing to No Re-expressions (usefulness1) and the usefulness study comparing Adding Familiar Content and Reunitization to randomly generated re-expressions (usefulness2). All three studies are described in the paper and the supplementary document:
