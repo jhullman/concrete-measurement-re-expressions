@@ -26,7 +26,7 @@
 
  - **Web interface for viewing measurement data** - http://measurements-interface.us-west-2.elasticbeanstalk.com/
 
- - **API Documentation** - http://measurements-interface.us-west-2.elasticbeanstalk.com/api
+ - **API Documentation** - Coming soon!
 
 
 
