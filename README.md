@@ -27,7 +27,7 @@
  - **Web interface for viewing measurement data** - http://measurements-interface.us-west-2.elasticbeanstalk.com/
 
  - **API Documentation** - 
-	- **Database API** - Directly query the database with WordNet Synset Ids or with measure parameters.
+	- **Database API** - Directly query the database with WordNet Synset Ids or with measure parameters: http://measurements-interface.us-west-2.elasticbeanstalk.com/api
 
 
 
