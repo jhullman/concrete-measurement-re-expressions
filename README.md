@@ -23,7 +23,7 @@
   - **results_tables/** - Tables of results for each concrete re-expression strategy
 
 ## Online Database Interface and APIs
- - **Website** - View the website for more information: measurements.contextvis.com
+ - **Website** - View the website for more information: http://measurements.contextvis.com
 
  - **Web interface for viewing measurement data** - https://measurements-database.contextvis.com
 
