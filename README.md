@@ -6,7 +6,6 @@
 
 ## Directories
 
-
   - **crowdData/** - Data obtained from crowdsourced countability/rigidity and familiarity tasks.
        - **crowd_familiarity** - Judgments of how familiar objects are for re-expressing a range of input measurements (weight, height, length, volume)
        - **crowd_verification** - Judgments of whether an instance is an example of the synset it is intended to represent
