@@ -22,11 +22,13 @@
   - **results_tables/** - Tables of results for each concrete re-expression strategy
 
 ## Online Database Interface and APIs
+ - **Website** - View the website for more information: http://measurements.contextvis.com
 
- - **Web interface for viewing measurement data** - http://measurements-interface.us-west-2.elasticbeanstalk.com/
+ - **Web interface for viewing measurement data** - https://measurements-database.contextvis.com
 
  - **API Documentation** - 
-	- **Database API** - Directly query the database with WordNet Synset Ids or with measure parameters: http://measurements-interface.us-west-2.elasticbeanstalk.com/api
+	- **Database API** - Directly query the database with WordNet Synset Ids or with measure parameters: https://measurements-database.contextvis.com/api
+	- **Re-expression API** - Re-express unfamiliar measurements with our API using  strategies described in our paper: https://measurements-api.contextvis.com 
 
 
 
