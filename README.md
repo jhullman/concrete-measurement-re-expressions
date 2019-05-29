@@ -22,7 +22,7 @@
   - **results_tables/** - Tables of results for each concrete re-expression strategy
 
 ## Online Database Interface and APIs
- - **Website** - View the website for more information: https://visualization.ischool.uw.edu/~fmnguyen/measurements-website/dist/
+ - **Website** - View the website for more information: https://mucollective.northwestern.edu/measurements/
 
  Upon initial use, the below may take time to start from sleep state.
  - **Web interface for viewing measurement data** - https://measurement-interface.herokuapp.com
